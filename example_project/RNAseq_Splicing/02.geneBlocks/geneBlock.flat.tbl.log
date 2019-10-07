@@ -1,0 +1,18 @@
+ open ../ReferenceDB/gene/02transcript_gene_ano/hg19.refflat.desc.txt
+#open /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/RNAseq_Splicing/01.comb_junc_map_info/combine.junc2gene.tbl
+#open /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/RNAseq_Splicing/01.comb_junc_map_info/combine.junc2gene.tbl
+#error found: chr2	+	NM_000597	69803; start_pos=217498291(ss5	E1); end_pos=217498290(ss3	E2)
+#error found: chr2	+	NM_001291328	30533; start_pos=24387179(ss5	E9); end_pos=24387178(ss3	E10)
+#error found: chr2	+	NM_001352754	50249; start_pos=232225536(ss5	E23); end_pos=232225535(ss3	E24)
+#error found: chr2	+	NM_016044	59974; start_pos=96078425(ss5	n); end_pos=96078424(ss3	E7)
+counts:
+num.AS.out.a3ss	124
+num.AS.out.a5ss	94
+num.AS.out.se	308
+num.gene.1.detected	922
+num.gene_subRegion.1.error	4
+num.junction.1.detected	15672
+num.junction.2.expressed (total read number>=4 & samples detected>=2 & Counts/Average>0.05)	9446
+num.junction.3.known	9308
+num.junction.3.novel	138
+

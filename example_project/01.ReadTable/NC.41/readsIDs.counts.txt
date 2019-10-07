@@ -1,0 +1,6 @@
+mapping.rows.NC.41	2500267
+reads.NC.41.2.non-unique	508821
+reads.NC.41.3.unique.clip>none.mismatch>5/100bp	7002
+reads.NC.41.4.unique.readstype=exon	1682476
+reads.NC.41.4.unique.readstype=junc	188717
+

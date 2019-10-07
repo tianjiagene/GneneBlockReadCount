@@ -1,0 +1,24 @@
+ open ../ReferenceDB/gene/02transcript_gene_ano/hg19.refflat.desc.txt
+ write /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/04.GeneReadNum//refseqcds_SE.ids.tbl
+ open cat /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/01.ReadTable/NC.42.JunReadNum /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/01.ReadTable/NC.42.GenoMapNum |
+2019/9/26 10:26:41|read reads_mapInfo_f file NC.42 line 674809
+ open ../ReferenceDB/gene/02transcript_gene_ano/hg19.refflat.desc.txt
+ write /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/04.GeneReadNum//refseqcds_SE.NC.42.ReadNum.tbl.temp
+counts:
+reads.Junc.3UTR	676
+reads.Junc.5UTR	9401
+reads.Junc.CDS	214509
+reads.Junc.UTR3e	28
+reads.Junc.UTR5e	17
+reads.Junc.exon	587
+reads.Junc.intergenic	389
+reads.Junc.intron	459
+reads.nonJunc.3UTR	814603
+reads.nonJunc.5UTR	33674
+reads.nonJunc.CDS	886060
+reads.nonJunc.UTR3e	19933
+reads.nonJunc.UTR5e	4560
+reads.nonJunc.exon	8329
+reads.nonJunc.intergenic	15329
+reads.nonJunc.intron	93137
+

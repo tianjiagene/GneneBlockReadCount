@@ -1,0 +1,16 @@
+2019/9/26 10:20:27|read SAM file again, count reads map numbers
+2019/9/26 10:20:46|read SAM file NC.42 line 1000000
+2019/9/26 10:21:1|read SAM file NC.42 line 2000000
+2019/9/26 10:21:19|read SAM file NC.42 line 2920203
+2019/9/26 10:21:22|for non-unique mapped reads, output the map positions
+2019/9/26 10:21:22|write counts information
+counts:
+mapping.rows.NC.42	2920203
+reads.NC.42.2.non-unique	674185
+reads.NC.42.3.unique.clip>none.mismatch>5/100bp	7803
+reads.NC.42.4.unique.readstype=exon	1875625
+reads.NC.42.4.unique.readstype=junc	225803
+
+2019/9/26 10:21:23|for unique mapped reads, count genome and junction mapped numbers
+2019/9/26 10:21:23|write genome reads number to  /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/01.ReadTable//NC.42.GenoMapNum
+2019/9/26 10:21:26|write junc reads number to /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/01.ReadTable//NC.42.GenoMapNum

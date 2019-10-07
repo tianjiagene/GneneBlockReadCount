@@ -1,0 +1,6 @@
+mapping.rows.CRC.42	2756411
+reads.CRC.42.2.non-unique	965215
+reads.CRC.42.3.unique.clip>none.mismatch>5/100bp	7872
+reads.CRC.42.4.unique.readstype=exon	1490235
+reads.CRC.42.4.unique.readstype=junc	159068
+

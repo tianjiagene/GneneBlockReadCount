@@ -1,0 +1,10 @@
+ open /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/RNAseq_Splicing/02.geneBlocks/geneBlock.flat.tbl
+ write /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/RNAseq_Splicing/geneBlockReadNum//Gblock.ids.tbl
+ open cat /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/01.ReadTable/CRC.42.JunReadNum /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/01.ReadTable/CRC.42.GenoMapNum |
+2019/9/27 8:13:20|read reads_mapInfo_f file CRC.42 line 801536
+ open /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/RNAseq_Splicing/02.geneBlocks/geneBlock.flat.tbl
+ write /data/liwch/Projects/1804_Colorectal_cancer_splicing/GeneBlockReadCount/example_project/RNAseq_Splicing/geneBlockReadNum//Gblock.CRC.42.ReadNum.tbl.temp
+counts:
+reads.exon	1555439
+reads.intergenic	94034
+
